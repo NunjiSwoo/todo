@@ -13,5 +13,7 @@ Starting the development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 
 Searching for: http://127.0.0.1:8000/categorias/
+You can create a category about todo actions.
 
 Searching for: http://127.0.0.1:8000/tarefas/
+you can create a task that are supposed to be done.
