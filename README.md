@@ -8,9 +8,9 @@ python manage.py runserver
 
 After that, you can click on the hyperlink to access the API's page.
 
-Django version 4.2.5, using 'core.settings' settings. \n
-Starting the development server at http://127.0.0.1:8000/ \n
-Quit the server with CTRL-BREAK. \n
+Django version 4.2.5, using 'core.settings' settings. <br>
+Starting the development server at http://127.0.0.1:8000/ <br>
+Quit the server with CTRL-BREAK. <br>
 
 Searching for: http://127.0.0.1:8000/categorias/
 You can create a category about todo actions.
